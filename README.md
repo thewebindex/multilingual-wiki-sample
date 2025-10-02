@@ -26,6 +26,9 @@ and educational purposes only.
 If you use this dataset, please credit:  
 **The Web Index (web.wiki)** – Multilingual Wiki Dataset Sample  
 
+**DOI**  
+https://doi.org/10.5281/zenodo.17253688
+
 ## 🚀 Quick Usage
 You can load this dataset directly with 🤗 Datasets:
 
